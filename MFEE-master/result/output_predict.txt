@@ -1,0 +1,2 @@
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-DebrisFlow,I-DebrisFlow,I-DebrisFlow,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-Damage,I-Damage,O,O,O,B-Human,I-Human,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-Action,I-Action,B-Investigate,I-Investigate,O
