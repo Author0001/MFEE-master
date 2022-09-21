@@ -1,6 +1,4 @@
 # LexiconAugmentedNER
-This is the implementation of our arxiv paper "[Simplify the Usage of Lexicon in Chinese NER](https://arxiv.org/pdf/1908.05969.pdf)", which rejects complicated operations for incorporating word lexicon in Chinese NER. We show that incorporating lexicon in Chinese NER can be quite simple and, at the same time, effective.
-
 # Source code description
 ## Requirement:
 Python 3.6
